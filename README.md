@@ -5,8 +5,8 @@ In this assignment I built a responsive web portfolio using Bootstrap Frameworks
 
 ## Screenshot 
 
-![Screenshot](Assets/Images/Screen Shot 2020-12-15 at 4.54.52 PM.png)
+![Screenshot](Assets/Images/Screen Shot 2020-12-15 at 4.54.52 PM.png "screenshot");
 
 ### Link to Deployed Webpage
 
-https://anthonyloredo5.github.io/Hw-02/\
+https://anthonyloredo5.github.io/Hw-02/
