@@ -9,4 +9,4 @@ In this assignment I built a responsive web portfolio using Bootstrap Frameworks
 
 ### Link to Deployed Webpage
 
-https://anthonyloredo5.github.io/Hw-02/
+https://anthonyloredo5.github.io/Responsiveness-Portfolio/
