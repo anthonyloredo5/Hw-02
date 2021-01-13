@@ -10,6 +10,7 @@ If you are opting out of career services, this is _still a required assignment_.
 
 * Submit an updated GitHub profile with pinned repositories featuring Project 1 and two exemplary assignments.
 
+<<<<<<< HEAD
 * Submit an updated resume
 
 * Submit an updated LinkedIn profile
@@ -140,3 +141,6 @@ So if you're going to be looking for a job at the end of your boot camp, go ahea
 
 ---
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+=======
+https://anthonyloredo5.github.io/Responsiveness-Portfolio/
+>>>>>>> 57bb23ea5a2cbca8f8fb71968d72b4358610021e
